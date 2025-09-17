@@ -10,7 +10,7 @@ I enjoy working on **Linux administration, automation, networking, virtualizatio
 - 🎓 BSc in Information Technology – Luxor University (GPA: 3.32)  
 - 🛡️ Focused on **System Administration, Security, Cloud, and Automation**  
 - 📈 Reduced downtime by **25%** and automated workflows to cut manual tasks by **60%**  
-- 🌐 [LinkedIn](https://linkedin.com/in/yahya-abd-el-azim) | 📧 yehiaabdelazim58@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yahya-abd-el-azim-aa6070253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 📧 yehiaabdelazim58@gmail.com  
 
 ---
 
@@ -84,7 +84,7 @@ I enjoy working on **Linux administration, automation, networking, virtualizatio
 
 ## 📫 Connect with Me
 - 📧 Email: **yehiaabdelazim58@gmail.com**  
-- 🔗 [LinkedIn](https://linkedin.com/in/yahya-abd-el-azim)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yahya-abd-el-azim-aa6070253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 🏅 [Credly Badges](https://www.credly.com/users/yehia-abdelazim)  
 
 ---
