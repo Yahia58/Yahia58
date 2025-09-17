@@ -24,11 +24,11 @@ I enjoy working on **Linux administration, automation, networking, virtualizatio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows Server"/>
 
   <!-- Networking -->
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-network-coding-and-development-flat-flat-juicy-fish.png" width="50" height="50" alt="Networking"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg" width="50" height="50" alt="Networking"/>
 
   <!-- Virtualization & Cloud -->
-  <img alt="VMware" src="./assets/icons/vmware.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS"/>
+  <img alt="VMware" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vmware.svg" width="45" />
+  <img src="./assets/icons/aws.svg" width="50" height="50" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" alt="Azure"/>
 
   <!-- DevOps & Automation -->
