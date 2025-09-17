@@ -85,7 +85,7 @@ I enjoy working on **Linux administration, automation, networking, virtualizatio
 ## 📫 Connect with Me
 - 📧 Email: **yehiaabdelazim58@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yahya-abd-el-azim-aa6070253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 🏅 [Credly Badges](https://www.credly.com/users/yehia-abdelazim)  
+- 🏅 [Credly Badges](https://www.credly.com/users/yahya-abdelazim-shaker-ahmed)  
 
 ---
 ✨ Always learning, automating, and optimizing systems!
