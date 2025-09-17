@@ -14,30 +14,48 @@ I enjoy working on **Linux administration, automation, networking, virtualizatio
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Tools  
 
-**Operating Systems**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<p align="center">
+  <!-- Operating Systems -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="50" height="50" alt="RedHat"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" height="50" alt="Ubuntu"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows Server"/>
 
-**Networking**  
-![CCNA](https://img.shields.io/badge/CCNA-Networking-1E90FF?style=for-the-badge)  
-![DHCP](https://img.shields.io/badge/DHCP-008080?style=for-the-badge)  
-![OSPF](https://img.shields.io/badge/OSPF-FF4500?style=for-the-badge)  
-![VPN](https://img.shields.io/badge/VPN-228B22?style=for-the-badge)
+  <!-- Networking -->
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-network-coding-and-development-flat-flat-juicy-fish.png" width="50" height="50" alt="Networking"/>
 
-**Virtualization & Cloud**  
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  <!-- Virtualization & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="50" height="50" alt="VMware"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" alt="Azure"/>
 
-**DevOps & Automation**  
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  <!-- DevOps & Automation -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" height="50" alt="Ansible"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" alt="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+
+  <!-- Monitoring & Security -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" height="50" alt="Zabbix/Grafana"/>
+  <img src="https://img.icons8.com/color/48/cyber-security.png" width="50" height="50" alt="Security"/>
+</p>
+
+---
+
+## 🔥 Animated Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yahia58&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahia58&theme=tokyonight" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahia58&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
