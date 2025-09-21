@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yahya Abd El-Azim
 
-🚀 **System Administrator (Linux & Windows)** with hands-on experience in managing, securing, and optimizing IT infrastructures.  
+ **System Administrator (Linux & Windows)** with hands-on experience in managing, securing, and optimizing IT infrastructures.  
 I enjoy working on **Linux administration, automation, networking, virtualization, and cloud technologies**.  
 
 ---
