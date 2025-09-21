@@ -55,11 +55,33 @@ I enjoy working on **Linux administration, automation, networking, virtualizatio
 ---
 
 ## 📂 Projects (Highlighted)
+🔹 [Automated CI/CD Pipeline – Jenkins, Docker, GitHub, and Backups](https://github.com/Yahia58/infra-cicd-backup)
 
+    • Implemented a Jenkins pipeline that triggers automatically on GitHub commits  
+    • Built & pushed Docker images to DockerHub  
+    • Deployed updated containers by replacing old versions seamlessly  
+    • Automated container backup process and pushed archives to GitHub  
 🔹 [User & Group Management – Bash (Select Menu)](https://github.com/Yahia58/User-and-group-Management-using-select)  
+    
+    • Developed a CLI-based tool for managing Linux users and groups  
+    • Implemented functions for add/modify/delete users and groups  
+    • Automated common sysadmin tasks with Bash scripting  
 🔹 [User & Group Management – Whiptail GUI](https://github.com/Yahia58/User-and-group-Management-using-whiptail)  
-🔹 [Backup Script](https://github.com/Yahia58/Backup-Script)  
+
+    • Created a GUI menu for user/group management using Whiptail  
+    • Simplified administrative tasks with an interactive interface  
+    • Integrated features for password resets and user account control 
+🔹 [Backup Bash Script](https://github.com/Yahia58/Backup-Script)  
+
+    • Built an automated backup script for critical directories  
+    • Implemented logging and error handling for reliability  
+    • Configured scheduled backups using cron jobs  
+
 🔹 [Network Infrastructure Simulation – OSPF/EIGRP/VLANs](https://github.com/Yahia58/Simulation-using-pkt)  
+
+    • Designed and configured a multi-router network using Packet Tracer  
+    • Implemented routing protocols (OSPF, EIGRP) and VLAN segmentation  
+    • Applied ACLs, NAT, and HSRP for secure and resilient networking 
 
 ---
 
