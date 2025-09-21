@@ -45,20 +45,6 @@ I enjoy working on **Linux administration, automation, networking, virtualizatio
 </p>
 
 ---
-
-## 🔥 Animated Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yahia58&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahia58&theme=tokyonight" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahia58&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ## 🎓 Certifications
 - 🏅 **RHCSA** – Red Hat Certified System Administrator (Sep 2024)  
 - ☁️ **AWS Academy Graduate – Cloud Architecture** (Aug 2024)  
